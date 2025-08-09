@@ -14,3 +14,11 @@ s3-step-fn-lock-processor
 }
 ```
 
+
+## Deploy
+```
+npm install --save-dev serverless-step-functions
+
+sls deploy
+```
+
